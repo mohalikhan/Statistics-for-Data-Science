@@ -7,7 +7,7 @@ Regression Analysis
 
 By:
 
-Mahammad Ali
+Mohammad Ali
 
 Adil Alkhateeb
 
