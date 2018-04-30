@@ -6,8 +6,11 @@ Weather Driven Sales Prediction
 Regression Analysis
 
 By:
+
 Mahammad Ali
+
 Adil Alkhateeb
+
 Linda Wong
 
 Introduction
